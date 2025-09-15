@@ -1,0 +1,6 @@
+train: D:\\My projects\\Skin cancer\\Train\\images
+val: D:\\My projects\\Skin cancer\\Val\\images
+train: D:\\My projects\\Skin cancer\\Train
+
+nc: 4
+names: ["Herpes","Melanoma","Monkeypox","Varicela"]
